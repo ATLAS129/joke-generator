@@ -75,7 +75,7 @@ export default function App() {
           className="border px-3 py-1 rounded-lg"
           onClick={() => setIsGenerating(true)}
         >
-          Generate
+          Generate joke
         </button>
       </div>
       <div className="py-4">
